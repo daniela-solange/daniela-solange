@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @daniela-solange
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently learning SQL/Postgress SQL
+- 🌱 I’m here to learning
 
 <!---
 daniela-solange/daniela-solange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
